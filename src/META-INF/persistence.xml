@@ -5,7 +5,7 @@
 		<class>models.Tasklist</class>
 		<properties>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/message_board?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf8"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/tasklist?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf8"/>
 			<property name="javax.persistence.jdbc.user" value="mesuser"/>
 			<property name="javax.persistence.jdbc.password" value="mespass"/>
 			<property name="javax.persistence.schema-generation.database.action" value="create"/>
